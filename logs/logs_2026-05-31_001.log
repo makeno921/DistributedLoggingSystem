@@ -1,0 +1,16 @@
+{"timestamp":"2026-05-31 21:49:13","level":"DEBUG","service":"TestService","host":"makeno","requestId":"1780253353437959500","message":"Отладочная информация #1","stackTrace":""}
+{"timestamp":"2026-05-31 21:49:13","level":"WARNING","service":"TestService","host":"makeno","requestId":"1780253353439089200","message":"Предупреждение #1","stackTrace":""}
+{"timestamp":"2026-05-31 21:49:13","level":"ERROR","service":"TestService","host":"makeno","requestId":"1780253353439548600","message":"Ошибка #1","stackTrace":""}
+{"timestamp":"2026-05-31 21:49:13","level":"FATAL","service":"TestService","host":"makeno","requestId":"1780253353439929800","message":"Критическая ошибка #1","stackTrace":""}
+{"timestamp":"2026-05-31 21:49:18","level":"INFO","service":"TestService","host":"makeno","requestId":"1780253358442240800","message":"Тестовое сообщение #2","stackTrace":""}
+{"timestamp":"2026-05-31 21:49:18","level":"DEBUG","service":"TestService","host":"makeno","requestId":"1780253358442828600","message":"Отладочная информация #2","stackTrace":""}
+{"timestamp":"2026-05-31 21:49:18","level":"WARNING","service":"TestService","host":"makeno","requestId":"1780253358443236100","message":"Предупреждение #2","stackTrace":""}
+{"timestamp":"2026-05-31 21:49:18","level":"ERROR","service":"TestService","host":"makeno","requestId":"1780253358443610200","message":"Ошибка #2","stackTrace":""}
+{"timestamp":"2026-05-31 21:49:18","level":"FATAL","service":"TestService","host":"makeno","requestId":"1780253358444024300","message":"Критическая ошибка #2","stackTrace":""}
+{"timestamp":"2026-05-31 21:49:28","level":"INFO","service":"TestService","host":"makeno","requestId":"1780253368453393400","message":"Тестовое сообщение #3","stackTrace":""}
+{"timestamp":"2026-05-31 21:49:28","level":"DEBUG","service":"TestService","host":"makeno","requestId":"1780253368453962500","message":"Отладочная информация #3","stackTrace":""}
+{"timestamp":"2026-05-31 21:49:28","level":"WARNING","service":"TestService","host":"makeno","requestId":"1780253368454446800","message":"Предупреждение #3","stackTrace":""}
+{"timestamp":"2026-05-31 21:49:28","level":"ERROR","service":"TestService","host":"makeno","requestId":"1780253368454848300","message":"Ошибка #3","stackTrace":""}
+{"timestamp":"2026-05-31 21:49:28","level":"FATAL","service":"TestService","host":"makeno","requestId":"1780253368455216700","message":"Критическая ошибка #3","stackTrace":""}
+{"timestamp":"2026-05-31 21:49:33","level":"INFO","service":"TestService","host":"makeno","requestId":"1780253373458510100","message":"Тестовое сообщение #4","stackTrace":""}
+{"timestamp":"2026-05-31 21:49:38","level":"INFO","service":"TestService","host":"makeno","requestId":"1780253378466243100","message":"Тестовое сообщение #5","stackTrace":""}

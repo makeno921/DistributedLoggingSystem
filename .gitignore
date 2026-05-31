@@ -1,0 +1,11 @@
+cmake-build-debug/
+cmake-build-release/
+build/
+*.exe
+*.o
+*.a
+docker_logs/
+logs/
+logs_dir1/
+logs_dir2/
+test_logs/

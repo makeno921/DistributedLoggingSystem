@@ -1,0 +1,91 @@
+{"timestamp":"2026-05-31 21:22:40","level":"INFO","service":"Пользователь вошёл","host":"makeno","requestId":"1780251760180580100","message":"AuthService","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"msg 0","host":"makeno","requestId":"1780251761019173600","message":"Test","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"msg 1","host":"makeno","requestId":"1780251761019593500","message":"Test","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"AuthService","host":"makeno","requestId":"1780251761460365200","message":"Тест сохранения","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"Test","host":"makeno","requestId":"1780251761461870100","message":"Сообщение 0","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"Test","host":"makeno","requestId":"1780251761462177900","message":"Сообщение 1","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"Test","host":"makeno","requestId":"1780251761462507900","message":"Сообщение 2","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"Test","host":"makeno","requestId":"1780251761462779500","message":"Сообщение 3","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"Test","host":"makeno","requestId":"1780251761463011100","message":"Сообщение 4","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"Test","host":"makeno","requestId":"1780251761463237600","message":"Сообщение 5","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"Test","host":"makeno","requestId":"1780251761463473400","message":"Сообщение 6","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"Test","host":"makeno","requestId":"1780251761463695700","message":"Сообщение 7","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"Test","host":"makeno","requestId":"1780251761463915600","message":"Сообщение 8","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"Test","host":"makeno","requestId":"1780251761464147300","message":"Сообщение 9","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"Test","host":"makeno","requestId":"1780251761464363400","message":"Сообщение 10","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"Test","host":"makeno","requestId":"1780251761464576200","message":"Сообщение 11","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"Test","host":"makeno","requestId":"1780251761464800700","message":"Сообщение 12","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"Test","host":"makeno","requestId":"1780251761465011600","message":"Сообщение 13","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"Test","host":"makeno","requestId":"1780251761465213800","message":"Сообщение 14","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"Test","host":"makeno","requestId":"1780251761465405800","message":"Сообщение 15","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"Test","host":"makeno","requestId":"1780251761465600700","message":"Сообщение 16","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"Test","host":"makeno","requestId":"1780251761465926700","message":"Сообщение 17","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"Test","host":"makeno","requestId":"1780251761466187200","message":"Сообщение 18","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"Test","host":"makeno","requestId":"1780251761466425600","message":"Сообщение 19","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"DEBUG","service":"Test","host":"makeno","requestId":"1780251761467340400","message":"debug","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"Test","host":"makeno","requestId":"1780251761467591000","message":"info","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"WARNING","service":"Test","host":"makeno","requestId":"1780251761467811000","message":"warning","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"ERROR","service":"Test","host":"makeno","requestId":"1780251761468013300","message":"error","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"FATAL","service":"Test","host":"makeno","requestId":"1780251761468208500","message":"fatal","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"FATAL","service":"Payment","host":"makeno","requestId":"1780251761469030800","message":"Критическая ошибка","stackTrace":"long stack trace here"}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"StressTest","host":"makeno","requestId":"1780251761470047900","message":"msg 0","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"StressTest","host":"makeno","requestId":"1780251761470339800","message":"msg 1","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"StressTest","host":"makeno","requestId":"1780251761470663200","message":"msg 2","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"StressTest","host":"makeno","requestId":"1780251761471009800","message":"msg 3","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"StressTest","host":"makeno","requestId":"1780251761471303900","message":"msg 4","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"StressTest","host":"makeno","requestId":"1780251761471559900","message":"msg 5","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"StressTest","host":"makeno","requestId":"1780251761471771700","message":"msg 6","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"StressTest","host":"makeno","requestId":"1780251761471967300","message":"msg 7","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"StressTest","host":"makeno","requestId":"1780251761472160900","message":"msg 8","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"StressTest","host":"makeno","requestId":"1780251761472420700","message":"msg 9","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"StressTest","host":"makeno","requestId":"1780251761472741400","message":"msg 10","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"StressTest","host":"makeno","requestId":"1780251761473049500","message":"msg 11","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"StressTest","host":"makeno","requestId":"1780251761473309900","message":"msg 12","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"StressTest","host":"makeno","requestId":"1780251761473524900","message":"msg 13","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"StressTest","host":"makeno","requestId":"1780251761474137600","message":"msg 14","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"StressTest","host":"makeno","requestId":"1780251761474358200","message":"msg 15","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"StressTest","host":"makeno","requestId":"1780251761474556300","message":"msg 16","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"StressTest","host":"makeno","requestId":"1780251761474885600","message":"msg 17","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"StressTest","host":"makeno","requestId":"1780251761475124700","message":"msg 18","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"StressTest","host":"makeno","requestId":"1780251761475423100","message":"msg 19","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"StressTest","host":"makeno","requestId":"1780251761475751300","message":"msg 20","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"StressTest","host":"makeno","requestId":"1780251761476109700","message":"msg 21","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"StressTest","host":"makeno","requestId":"1780251761476342900","message":"msg 22","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"StressTest","host":"makeno","requestId":"1780251761476563600","message":"msg 23","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"StressTest","host":"makeno","requestId":"1780251761476776900","message":"msg 24","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"StressTest","host":"makeno","requestId":"1780251761477057900","message":"msg 25","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"StressTest","host":"makeno","requestId":"1780251761477300000","message":"msg 26","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"StressTest","host":"makeno","requestId":"1780251761477512800","message":"msg 27","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"StressTest","host":"makeno","requestId":"1780251761477743800","message":"msg 28","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"StressTest","host":"makeno","requestId":"1780251761477971800","message":"msg 29","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"StressTest","host":"makeno","requestId":"1780251761478182200","message":"msg 30","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"StressTest","host":"makeno","requestId":"1780251761478380500","message":"msg 31","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"StressTest","host":"makeno","requestId":"1780251761478576800","message":"msg 32","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"StressTest","host":"makeno","requestId":"1780251761478797900","message":"msg 33","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"StressTest","host":"makeno","requestId":"1780251761479085200","message":"msg 34","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"StressTest","host":"makeno","requestId":"1780251761479301400","message":"msg 35","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"StressTest","host":"makeno","requestId":"1780251761479511800","message":"msg 36","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"StressTest","host":"makeno","requestId":"1780251761479708200","message":"msg 37","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"StressTest","host":"makeno","requestId":"1780251761479903500","message":"msg 38","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"StressTest","host":"makeno","requestId":"1780251761480098100","message":"msg 39","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"StressTest","host":"makeno","requestId":"1780251761480290700","message":"msg 40","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"StressTest","host":"makeno","requestId":"1780251761480486700","message":"msg 41","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"StressTest","host":"makeno","requestId":"1780251761480679900","message":"msg 42","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"StressTest","host":"makeno","requestId":"1780251761480947400","message":"msg 43","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"StressTest","host":"makeno","requestId":"1780251761481249200","message":"msg 44","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"StressTest","host":"makeno","requestId":"1780251761481522200","message":"msg 45","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"StressTest","host":"makeno","requestId":"1780251761481821300","message":"msg 46","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"StressTest","host":"makeno","requestId":"1780251761482143400","message":"msg 47","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"StressTest","host":"makeno","requestId":"1780251761482462400","message":"msg 48","stackTrace":""}
+{"timestamp":"2026-05-31 21:22:41","level":"INFO","service":"StressTest","host":"makeno","requestId":"1780251761482694000","message":"msg 49","stackTrace":""}
+{"timestamp":"2026-05-31 21:36:36","level":"INFO","service":"AuthService","host":"makeno","requestId":"1780252596438901800","message":"Приложение успешно запущено","stackTrace":""}
+{"timestamp":"2026-05-31 21:36:36","level":"DEBUG","service":"AuthService","host":"makeno","requestId":"1780252596440633000","message":"Пользователь вошёл в систему","stackTrace":""}
+{"timestamp":"2026-05-31 21:36:36","level":"WARNING","service":"Monitoring","host":"makeno","requestId":"1780252596441039200","message":"Низкий заряд батареи на сервере","stackTrace":""}
+{"timestamp":"2026-05-31 21:36:36","level":"ERROR","service":"DatabaseService","host":"makeno","requestId":"1780252596441493400","message":"Не удалось подключиться к базе данных","stackTrace":""}
+{"timestamp":"2026-05-31 21:36:36","level":"FATAL","service":"PaymentService","host":"makeno","requestId":"1780252596441879100","message":"Критическая ошибка: переполнение стека","stackTrace":""}
+{"timestamp":"2026-05-31 21:49:08","level":"INFO","service":"AuthService","host":"makeno","requestId":"1780253348424981000","message":"Приложение успешно запущено","stackTrace":""}
+{"timestamp":"2026-05-31 21:49:08","level":"DEBUG","service":"AuthService","host":"makeno","requestId":"1780253348426486000","message":"Пользователь вошёл в систему","stackTrace":""}
+{"timestamp":"2026-05-31 21:49:08","level":"WARNING","service":"Monitoring","host":"makeno","requestId":"1780253348427094700","message":"Низкий заряд батареи на сервере","stackTrace":""}
+{"timestamp":"2026-05-31 21:49:08","level":"ERROR","service":"DatabaseService","host":"makeno","requestId":"1780253348427645700","message":"Не удалось подключиться к базе данных","stackTrace":""}
+{"timestamp":"2026-05-31 21:49:08","level":"FATAL","service":"PaymentService","host":"makeno","requestId":"1780253348428137500","message":"Критическая ошибка: переполнение стека","stackTrace":""}
+{"timestamp":"2026-05-31 21:49:13","level":"INFO","service":"TestService","host":"makeno","requestId":"1780253353437378300","message":"Тестовое сообщение #1","stackTrace":""}

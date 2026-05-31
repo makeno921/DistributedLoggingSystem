@@ -1,0 +1,12 @@
+build/
+cmake-build-*/
+*.o
+*.obj
+logs/
+test_logs/
+.vscode/
+.idea/
+.git/
+Dockerfile
+README.md
+**/*.md

@@ -1,0 +1,78 @@
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"AuthService","host":"makeno","requestId":"1779680598249424400","message":"Тестовое сообщение","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"TestService","host":"makeno","requestId":"1779680598250111000","message":"Сообщение #0","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"TestService","host":"makeno","requestId":"1779680598250212100","message":"Сообщение #1","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"TestService","host":"makeno","requestId":"1779680598250285900","message":"Сообщение #2","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"TestService","host":"makeno","requestId":"1779680598250472300","message":"Сообщение #3","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"TestService","host":"makeno","requestId":"1779680598250553100","message":"Сообщение #4","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"TestService","host":"makeno","requestId":"1779680598250614600","message":"Сообщение #5","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"TestService","host":"makeno","requestId":"1779680598250675000","message":"Сообщение #6","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"TestService","host":"makeno","requestId":"1779680598250731500","message":"Сообщение #7","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"TestService","host":"makeno","requestId":"1779680598250786300","message":"Сообщение #8","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"TestService","host":"makeno","requestId":"1779680598250842300","message":"Сообщение #9","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"DEBUG","service":"Test","host":"makeno","requestId":"1779680598251538400","message":"debug","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"Test","host":"makeno","requestId":"1779680598251633400","message":"info","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"WARNING","service":"Test","host":"makeno","requestId":"1779680598251695800","message":"warning","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"ERROR","service":"Test","host":"makeno","requestId":"1779680598251750500","message":"error","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"FATAL","service":"Test","host":"makeno","requestId":"1779680598251803500","message":"fatal","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598252433600","message":"Сообщение для теста ротации #0","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598252531900","message":"Сообщение для теста ротации #1","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598252596200","message":"Сообщение для теста ротации #2","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598252652900","message":"Сообщение для теста ротации #3","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598252706600","message":"Сообщение для теста ротации #4","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598252759800","message":"Сообщение для теста ротации #5","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598252811700","message":"Сообщение для теста ротации #6","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598252888400","message":"Сообщение для теста ротации #7","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598252948600","message":"Сообщение для теста ротации #8","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598253002500","message":"Сообщение для теста ротации #9","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598253056300","message":"Сообщение для теста ротации #10","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598253108600","message":"Сообщение для теста ротации #11","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598253160600","message":"Сообщение для теста ротации #12","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598253212600","message":"Сообщение для теста ротации #13","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598253264100","message":"Сообщение для теста ротации #14","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598253315800","message":"Сообщение для теста ротации #15","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598253367700","message":"Сообщение для теста ротации #16","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598253419000","message":"Сообщение для теста ротации #17","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598253473200","message":"Сообщение для теста ротации #18","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598253525000","message":"Сообщение для теста ротации #19","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598253577100","message":"Сообщение для теста ротации #20","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598253628700","message":"Сообщение для теста ротации #21","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598253680500","message":"Сообщение для теста ротации #22","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598253731800","message":"Сообщение для теста ротации #23","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598253783800","message":"Сообщение для теста ротации #24","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598253836100","message":"Сообщение для теста ротации #25","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598253886800","message":"Сообщение для теста ротации #26","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598253961400","message":"Сообщение для теста ротации #27","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598254021600","message":"Сообщение для теста ротации #28","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598254074800","message":"Сообщение для теста ротации #29","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598254134000","message":"Сообщение для теста ротации #30","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598254188400","message":"Сообщение для теста ротации #31","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598254240000","message":"Сообщение для теста ротации #32","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598254291900","message":"Сообщение для теста ротации #33","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598254344200","message":"Сообщение для теста ротации #34","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598254396100","message":"Сообщение для теста ротации #35","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598254447800","message":"Сообщение для теста ротации #36","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598254499900","message":"Сообщение для теста ротации #37","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598254551500","message":"Сообщение для теста ротации #38","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598254607500","message":"Сообщение для теста ротации #39","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598254658900","message":"Сообщение для теста ротации #40","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598254710500","message":"Сообщение для теста ротации #41","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598254761100","message":"Сообщение для теста ротации #42","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598254811800","message":"Сообщение для теста ротации #43","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598254862600","message":"Сообщение для теста ротации #44","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598254913600","message":"Сообщение для теста ротации #45","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598254964200","message":"Сообщение для теста ротации #46","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598255017300","message":"Сообщение для теста ротации #47","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598255070400","message":"Сообщение для теста ротации #48","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598255121700","message":"Сообщение для теста ротации #49","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598255173000","message":"Сообщение для теста ротации #50","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598255223800","message":"Сообщение для теста ротации #51","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598255274900","message":"Сообщение для теста ротации #52","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598255325700","message":"Сообщение для теста ротации #53","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598255376600","message":"Сообщение для теста ротации #54","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598255443500","message":"Сообщение для теста ротации #55","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598255539400","message":"Сообщение для теста ротации #56","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598255606000","message":"Сообщение для теста ротации #57","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598255670300","message":"Сообщение для теста ротации #58","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598255721800","message":"Сообщение для теста ротации #59","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598255773000","message":"Сообщение для теста ротации #60","stackTrace":""}
+{"timestamp":"2026-05-25 06:43:18","level":"INFO","service":"LoadTest","host":"makeno","requestId":"1779680598255823800","message":"Сообщение для теста ротации #61","stackTrace":""}
