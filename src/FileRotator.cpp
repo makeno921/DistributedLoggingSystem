@@ -46,7 +46,7 @@ bool FileRotator::write(const LogMessage& msg) {
 
 void FileRotator::rotate() {
     closeCurrentFile();
-    rotationCounter_++;                    // увеличиваем счётчик
+    rotationCounter_++;
     openNewFile();
     std::cout << "[FileRotator] 🔄 Ротация по размеру: создан новый файл\n";
 }

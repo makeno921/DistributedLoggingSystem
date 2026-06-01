@@ -13,7 +13,6 @@ public:
     // Сохранение лога
     bool save(const LogMessage& msg);
 
-    // Получение последних N логов (для реал-тайм просмотра)
     std::vector<LogMessage> getRecentLogs(size_t count = 100);
 
     // Очистка старых логов (по дате)

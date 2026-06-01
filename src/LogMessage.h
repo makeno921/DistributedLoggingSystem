@@ -8,7 +8,7 @@ enum class LogLevel {
     DEBUG,
     INFO,
     WARNING,
-    ERR,      // ← было ERROR, теперь ERR (чтобы не конфликтовать с Windows)
+    ERR,
     FATAL
 };
 

@@ -11,7 +11,7 @@ public:
 
     bool write(const LogMessage& msg);
 
-    void cleanup(int daysToKeep);   // <-- добавил обратно
+    void cleanup(int daysToKeep);
 
 private:
     void rotate();
@@ -25,5 +25,5 @@ private:
     std::string baseDir_;
     mutable std::mutex mutex_;
     int rotationCounter_ = 0;
-    static constexpr size_t MAX_FILE_SIZE = 15 * 1024; // 100 КБ
+    static constexpr size_t MAX_FILE_SIZE = 15 * 1024; // 15 КБ
 };

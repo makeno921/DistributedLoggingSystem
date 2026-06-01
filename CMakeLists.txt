@@ -16,7 +16,7 @@ FetchContent_Declare(
 )
 FetchContent_MakeAvailable(Catch2)
 
-# === ОБЩИЕ ИСХОДНИКИ (используются и в программе, и в тестах) ===
+# обшие исходники
 set(COMMON_SOURCES
         src/LogMessage.cpp
         src/LoggerClient.cpp
@@ -26,7 +26,7 @@ set(COMMON_SOURCES
         src/TcpConnection.cpp
 )
 
-# Создаём библиотеку из общих файлов
+# библиотека из общих файлов
 add_library(DistributedLoggingLib STATIC ${COMMON_SOURCES})
 target_include_directories(DistributedLoggingLib PUBLIC include src)
 
@@ -34,11 +34,11 @@ if(WIN32)
     target_link_libraries(DistributedLoggingLib PRIVATE ws2_32)
 endif()
 
-# === ОСНОВНАЯ ПРОГРАММА ===
+# основная прога
 add_executable(DistributedLoggingSystem src/main.cpp)
 target_link_libraries(DistributedLoggingSystem PRIVATE DistributedLoggingLib)
 
-# === ТЕСТЫ ===
+# тестики
 add_executable(DistributedLoggingSystemTests
         tests/test_LogMessage.cpp
         tests/test_FileRotator.cpp
@@ -54,7 +54,7 @@ target_link_libraries(DistributedLoggingSystemTests PRIVATE
         Catch2::Catch2WithMain
 )
 
-# Регистрируем тесты
+# регистрация тестов
 include(CTest)
 include(Catch)
 catch_discover_tests(DistributedLoggingSystemTests)
@@ -63,7 +63,7 @@ message(STATUS "=== Distributed Logging System + Tests ===")
 message(STATUS "Main target: DistributedLoggingSystem")
 message(STATUS "Tests target: DistributedLoggingSystemTests")
 
-# ====================== СЦЕНАРИИ ДЛЯ 4 ПРАКТИКИ ======================
+# сценарии
 add_executable(scenario_basic tests/scenarios/scenario_basic.cpp)
 target_link_libraries(scenario_basic PRIVATE DistributedLoggingLib)
 

@@ -15,7 +15,6 @@ bool LogStorage::save(const LogMessage& msg) {
     bool success = rotator_->write(msg);
 
     if (success) {
-        // Добавляем в кэш последних логов
         recentLogs_.push_back(msg);
         // Оставляем только последние 1000 записей в памяти
         if (recentLogs_.size() > 1000) {

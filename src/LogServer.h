@@ -40,6 +40,6 @@ private:
     mutable std::mutex clientsMutex_;
 
     bool liveViewEnabled_ = true;
-    bool showAllLogs_ = true;            // true = показывать все логи
+    bool showAllLogs_ = true;
     LogLevel filterLevel_ = LogLevel::DEBUG;
 };

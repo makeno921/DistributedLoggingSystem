@@ -1,7 +1,7 @@
-# ===================== STAGE 1: Builder =====================
+#Builder
 FROM ubuntu:24.04 AS builder
 
-# Устанавливаем все зависимости
+#зависимости
 RUN apt-get update && apt-get install -y \
     build-essential \
     cmake \
@@ -11,7 +11,6 @@ RUN apt-get update && apt-get install -y \
 
 WORKDIR /app
 
-# Копируем весь проект
 COPY . .
 
 # Собираем проект
@@ -28,22 +27,22 @@ RUN mkdir -p build && cd build && \
          scenario_shutdown \
          scenario_performance
 
-# ===================== STAGE 2: Final Image =====================
+# Image
 FROM ubuntu:24.04
 
-# Минимальные runtime зависимости
+# Минимальные зависимости
 RUN apt-get update && apt-get install -y ca-certificates && \
     rm -rf /var/lib/apt/lists/*
 
 WORKDIR /app
 
-# Копируем только бинарники
+# онли копия бинарников
 COPY --from=builder /app/build/DistributedLoggingSystemTests .
 COPY --from=builder /app/build/scenario_* .
 
-# Создаём директорию для логов
+# директория для логов
 RUN mkdir -p /app/logs && chmod +x /app/*
 
-# По умолчанию запускаем все тесты
+# по дефолту запуск всех тестов
 ENTRYPOINT ["./DistributedLoggingSystemTests"]
 CMD []
